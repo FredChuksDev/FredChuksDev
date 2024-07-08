@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FredChuksDev
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ASP.NETCORE 6.0
+- 🌱 I’m currently learning ASP.NETCORE
 - 💞️ I’m looking to collaborate on creating digital products that make living easy.
 - 📫 Wanna reach me? Whatsapp: +2348023861871
 email: fredchuks4@gmail.com; fredchuks66@yahoo.com 
